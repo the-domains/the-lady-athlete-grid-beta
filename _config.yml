@@ -1,6 +1,6 @@
 name: The Lady Athlete Grid Beta
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.80271
 typography_spectrum: 0.84279
 title: The Lady Athlete Grid Beta
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 1
+  brandStrength: 0.6875
   lightness: 0.6875
   saturation: 0.25
   rhythmicContrast: 0.75
