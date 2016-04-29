@@ -5,13 +5,13 @@ inNav: false
 isBasedOnUrl: 'http://www.theladyathlete.com/'
 inLanguage: null
 keywords: []
-description: 'We are the authentic community for female athletes and those who support them. Currently on the East Coast. Next up, West Coast.'
-datePublished: '2016-04-29T01:49:46.386Z'
-dateModified: '2016-04-29T01:49:42.912Z'
+description: ''
+datePublished: '2016-04-29T01:51:21.638Z'
+dateModified: '2016-04-29T01:51:08.543Z'
 author: []
 related: []
 app_links: []
-title: The Lady Athlete- No Frills Athletics
+title: ''
 sourcePath: _posts/2016-04-29-the-lady-athlete-no-frills-athletics.md
 published: true
 authors: []
@@ -25,6 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30de695-c9cd-4a7f-b21a-18acace8b5d6.png)
+
 <article style=""><h1>The Lady Athlete- No Frills Athletics</h1><p>We are the authentic community for female athletes and those who support them. Currently on the East Coast. Next up, West Coast.</p><img src="https://static.wixstatic.com/media/4eada9_8565ec614055490894e4b8dd567f2604.jpg" /></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30de695-c9cd-4a7f-b21a-18acace8b5d6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd7dffa4-0910-47ae-ae64-3df608532c34.png)
