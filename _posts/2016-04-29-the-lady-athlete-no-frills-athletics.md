@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.theladyathlete.com/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T01:54:38.589Z'
-dateModified: '2016-04-29T01:53:57.281Z'
+datePublished: '2016-04-29T01:56:16.293Z'
+dateModified: '2016-04-29T01:56:05.414Z'
 author: []
 related: []
 app_links: []
@@ -26,5 +26,3 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd7dffa4-0910-47ae-ae64-3df608532c34.png)
-
-<article style=""><h1>The Lady Athlete- No Frills Athletics</h1><p>We are the authentic community for female athletes and those who support them. Currently on the East Coast. Next up, West Coast.</p><img src="https://static.wixstatic.com/media/4eada9_8565ec614055490894e4b8dd567f2604.jpg" /></article>
