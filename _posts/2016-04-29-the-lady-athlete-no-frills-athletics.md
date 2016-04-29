@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.theladyathlete.com/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T01:56:16.293Z'
-dateModified: '2016-04-29T01:56:05.414Z'
+datePublished: '2016-04-29T01:57:20.227Z'
+dateModified: '2016-04-29T01:57:15.302Z'
 author: []
 related: []
 app_links: []
